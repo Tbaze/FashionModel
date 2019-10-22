@@ -1,5 +1,5 @@
-# FashionModel
-FashionModel is a fashion website, which is use to promote models and fashion designer.
+# FashionModels
+FashionModels is a fashion website, which is use to promote models and fashion designer.
 
 
 ## Landing Page
