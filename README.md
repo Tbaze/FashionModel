@@ -12,3 +12,4 @@ Project is created with:
 * CSS
 * Bootstrap 3
 * Javascript
+* JQuery
